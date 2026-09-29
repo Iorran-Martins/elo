@@ -1,2 +1,3 @@
 # elo
-ELO — organizador pessoal em Flutter. Seu dia conectado aos seus sonhos.
+ELO — organizador pessoal em Flutter.
+Projeto piloto de aprendizagem.
